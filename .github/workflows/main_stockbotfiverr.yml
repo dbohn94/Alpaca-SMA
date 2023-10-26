@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'stockbotfiverr'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D895B03F1BA4794906E5DCC6AC4BC89 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0EBECAFDAD504C6E882169B8393EE855 }}
